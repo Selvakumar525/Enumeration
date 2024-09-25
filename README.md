@@ -165,7 +165,7 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## nmap –script smtp-enum-users.nse :
-![7a65b918-f1d5-4e7e-bb4d-bce9bd1ad579](https://github.com/user-attachments/assets/b7dabe75-888a-4ca3-933b-d794c7a5eaeb)
+![846055af-925d-458d-baf3-5e57edf26ea9](https://github.com/user-attachments/assets/1dc849dc-e3d0-44b3-8d95-2840c748b80f)
 
 
 ## RESULT:
